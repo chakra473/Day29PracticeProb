@@ -1,0 +1,6 @@
+D:\BRIDGELABZVS\Day29\Day29_PracticeProblem-IndianCensusProgram\IndianCensus\CensusAnalyserTest\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+D:\BRIDGELABZVS\Day29\Day29_PracticeProblem-IndianCensusProgram\IndianCensus\CensusAnalyserTest\obj\Debug\netcoreapp3.1\CensusAnalyserTest.csproj.AssemblyReference.cache
+D:\BRIDGELABZVS\Day29\Day29_PracticeProblem-IndianCensusProgram\IndianCensus\CensusAnalyserTest\obj\Debug\netcoreapp3.1\CensusAnalyserTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZVS\Day29\Day29_PracticeProblem-IndianCensusProgram\IndianCensus\CensusAnalyserTest\obj\Debug\netcoreapp3.1\CensusAnalyserTest.AssemblyInfoInputs.cache
+D:\BRIDGELABZVS\Day29\Day29_PracticeProblem-IndianCensusProgram\IndianCensus\CensusAnalyserTest\obj\Debug\netcoreapp3.1\CensusAnalyserTest.AssemblyInfo.cs
+D:\BRIDGELABZVS\Day29\Day29_PracticeProblem-IndianCensusProgram\IndianCensus\CensusAnalyserTest\obj\Debug\netcoreapp3.1\CensusAnalyserTest.csproj.CoreCompileInputs.cache
